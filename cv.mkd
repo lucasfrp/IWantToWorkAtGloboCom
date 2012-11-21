@@ -18,7 +18,7 @@ CV
 	* <b>Analista de informação Pleno</b> - Graber (08/2011 - Atual)
 	<br>Desenvolvimento de aplicações web Django, com AJAX e JQuery. Usando git como versionamento. 
 <p>	
-	* <b>Analista de informação Jr</b> - Iss Facility services (07/2010 - 08/20112)
+	* <b>Analista de informação Jr</b> - Iss Facility services (07/2010 - 08/2011)
 	<br>Realizando mineração de dados, com desenvolvimento de triggers e views.
 <p>	
 	* <b>Auxiliar técnico</b> - Karyon consultoria em informática (01/2010 - 06/2010)
