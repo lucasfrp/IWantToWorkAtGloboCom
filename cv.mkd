@@ -1,15 +1,15 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+*Área de Plataformas Sociais
+*Área de Entretenimento
 
 CV
 ==
+Lucas Fernandes Roriz Paiva
+Email: lucas3f@gmail.com
 
-[Preencha aqui o seu cv]
+PerfilProgramador com experiência em Python, JavaScript, JQuery, CSS3, HTML5, SQL Server e MySql, com capacidade para absorver e desenvolver em novas tecnologiasExperiênciaAnalista de informação Pleno; Graber — 08/2011 - Atual1Desenvolvimento de aplicações web Django, com AJAX e JQueryAnalista de informação jr; Iss Facility services — 07/2010 - 08/20112Realizando mineração de dados, com desenvolvimento de triggers e views.Auxiliar técnico; karyon consultoria em informática — 01/2010 - 06/2010Efetivado na empresa.Estágio na karyon consultoria em informática — 06/2009 - 12/2009Desenvolvimento de sistemas de gestão laboratorial em Delphi, proporcionando grande experiência em orientação a objeto e banco de dados.Estágio na empresa municipal de urbanização (riourbe) — 02/2009 - 06/2009Exercendo funções de manutenção de micros, suporte técnico ao usuário e suporte à rede. EducaçãoCursando 6º período de ciências da computação na UERJCurso técnico de processamento de dados completo pela Escola Técnica Estadual República (FAETEC)
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
